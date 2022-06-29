@@ -7,61 +7,56 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Jothilingam
+    tagline: Junior Technician, IIT Hyderabad
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: jothilingam.er@msme.iith.ac.in
+    #phone: 012 345 6789
     timezone: America/Cancun Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: iith.ac.in #do not add http://
+    linkedin: 
+    xing: 
+    github: 
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: ''
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+      - idiom: Tamil
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      
 
     interests:
-      - item: Climbing
+      - item: Badminton
         link:
 
-      - item: Snowboarding
+      - item: Photography
         link:
 
-      - item: Cooking
+      - item: Travel
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Currently working in the team, Smart Materials and Devices research group, led by Prof. Ranjith Ramadurai, Department of Materials Science and Metallurgical Engineering. I am handling the instruments related to the research facility, supporting the projects and research activity carried out in our group. In addition, my responsibilities include Assessing the cause of the breakdown of instruments due to electronic or electrical malfunction and repairing them to the extent possible.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Diploma in Electronics & Communication Engineering
+      university: DoTE, TamilNadu
+      time: 2005 - 2007
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -82,24 +77,18 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Junior Technician
+      time: 2021 - Present
+      company: IIT Hyderabad
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        working in the High Precision Lab to handle, support, and carry out maintenance activities for the sophisticated instruments. 
+        In addition to that, responsible for service and troubleshooting electrical and electronics faults at Department lab facilities 
+        and instruments to the maximum extent.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Project Assistant
+      time: 2010 - 2021
+      company: INCOIS, Hyderabad
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
